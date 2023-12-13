@@ -1,0 +1,14 @@
+.footer {
+  padding: 50px;
+  background: rgb(20, 20, 20);
+  color: white;
+}
+.footer ul {
+  list-style: none;
+}
+
+.footerSections {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}/*# sourceMappingURL=Footer.css.map */

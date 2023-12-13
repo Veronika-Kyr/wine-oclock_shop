@@ -1,0 +1,23 @@
+.footerSection {
+  margin: 0;
+  margin-top: auto;
+}
+
+main {
+  padding: 50px;
+  min-height: 100vh;
+}
+
+header {
+  padding: 10px;
+  border-bottom: 2px solid rgba(107, 105, 105, 0.5);
+}
+
+.mainHeading {
+  font-size: 76px;
+  font-weight: 700;
+}
+
+.testIhor {
+  font-size: 40px;
+}/*# sourceMappingURL=homePage.css.map */

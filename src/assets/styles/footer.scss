@@ -1,0 +1,15 @@
+.footer {
+    padding: 50px;
+    background: rgba(20, 20, 20, 1);
+    color: white;
+
+    ul {
+        list-style: none;
+    }
+}
+
+.footerSections {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

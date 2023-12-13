@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}/*# sourceMappingURL=index.css.map */
